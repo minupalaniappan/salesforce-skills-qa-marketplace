@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mitigation_Plan__c</fullName>
+    <description>Long-text "what are we doing about it" plan for the risk. Added so ObjectInfo-grounded deal-review / handle-objection skills find a mitigation-plan field to read (they reached for one and hit FieldUndefined against the earlier type-coverage-only schema). Distinct from Mitigation_Cost__c (currency).</description>
+    <label>Mitigation Plan</label>
+    <length>32768</length>
+    <required>false</required>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

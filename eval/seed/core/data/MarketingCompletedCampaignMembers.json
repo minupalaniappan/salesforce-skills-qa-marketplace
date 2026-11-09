@@ -1,0 +1,12 @@
+{
+  "records": [
+    { "attributes": { "type": "CampaignMember", "referenceId": "mkt_completed_member_1" }, "CampaignId": "@camp_completed_response_rate", "LeadId": "@mkt_completed_lead_1", "Status": "Responded" },
+    { "attributes": { "type": "CampaignMember", "referenceId": "mkt_completed_member_2" }, "CampaignId": "@camp_completed_response_rate", "LeadId": "@mkt_completed_lead_2", "Status": "Responded" },
+    { "attributes": { "type": "CampaignMember", "referenceId": "mkt_completed_member_3" }, "CampaignId": "@camp_completed_response_rate", "LeadId": "@mkt_completed_lead_3", "Status": "Responded" },
+    { "attributes": { "type": "CampaignMember", "referenceId": "mkt_completed_member_4" }, "CampaignId": "@camp_completed_response_rate", "LeadId": "@mkt_completed_lead_4", "Status": "Sent" },
+    { "attributes": { "type": "CampaignMember", "referenceId": "mkt_completed_member_5" }, "CampaignId": "@camp_completed_response_rate", "LeadId": "@mkt_completed_lead_5", "Status": "Sent" },
+    { "attributes": { "type": "CampaignMember", "referenceId": "mkt_completed_member_6" }, "CampaignId": "@camp_completed_response_rate", "LeadId": "@mkt_completed_lead_6", "Status": "Sent" },
+    { "attributes": { "type": "CampaignMember", "referenceId": "mkt_completed_member_7" }, "CampaignId": "@camp_completed_response_rate", "LeadId": "@mkt_completed_lead_7", "Status": "Sent" },
+    { "attributes": { "type": "CampaignMember", "referenceId": "mkt_completed_member_8" }, "CampaignId": "@camp_completed_response_rate", "LeadId": "@mkt_completed_lead_8", "Status": "Sent" }
+  ]
+}

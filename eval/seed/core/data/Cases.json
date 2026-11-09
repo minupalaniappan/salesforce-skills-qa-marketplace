@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "Case", "referenceId": "case_acme_1" },
+      "AccountId": "@acct_acme",
+      "ContactId": "@con_lena",
+      "Subject": "Intermittent JojaNet API latency in production",
+      "Status": "Working",
+      "Priority": "High",
+      "Origin": "Email",
+      "Type": "Problem",
+      "Description": "Customer reports elevated p95 latency on the JojaCola analytics API since last release."
+    },
+    {
+      "attributes": { "type": "Case", "referenceId": "case_acme_2" },
+      "AccountId": "@acct_acme",
+      "ContactId": "@con_jane",
+      "Subject": "Feature request: SSO with JojaMart membership login",
+      "Status": "New",
+      "Priority": "Medium",
+      "Origin": "Web",
+      "Type": "Feature Request"
+    }
+  ]
+}

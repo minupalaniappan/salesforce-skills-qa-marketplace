@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "Deal_Risk__c", "referenceId": "dr_acme_pricing" },
+      "Name": "JojaCola pricing pressure",
+      "Severity__c": "High",
+      "Risk_Category__c": "Pricing",
+      "Status__c": "Mitigating",
+      "Description__c": "Joja procurement is anchoring on last year's per-seat rate and pushing back on the JojaCola Analytics uplift. Competitive quote from a regional vendor is circulating internally.",
+      "Mitigation_Plan__c": "CFO-level value framing on total cost of ownership; offer a 2-year price lock in exchange for an expanded seat commitment. Lewis Thornton to sponsor internally.",
+      "Mitigation_Cost__c": 15000,
+      "Target_Resolution_Date__c": "2026-08-30",
+      "Is_Blocking__c": true,
+      "Resolution_Confidence__c": 65,
+      "Detected_At__c": "2026-07-01T14:30:00.000Z"
+    }
+  ]
+}

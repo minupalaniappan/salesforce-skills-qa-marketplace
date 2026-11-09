@@ -1,0 +1,15 @@
+[
+  { "sobject": "Account", "files": ["Accounts-parent.json"] },
+  { "sobject": "Account", "files": ["Accounts-child.json"] },
+  { "sobject": "Deal_Risk__c", "files": ["DealRisks-primary.json"] },
+  { "sobject": "Opportunity", "files": ["Opportunities.json"] },
+  { "sobject": "Deal_Risk__c", "files": ["DealRisks-child.json"] },
+  { "sobject": "Contact", "files": ["Contacts.json"] },
+  { "sobject": "OpportunityContactRole", "files": ["OpportunityContactRoles.json"] },
+  { "sobject": "Task", "files": ["Tasks.json"] },
+  { "sobject": "Event", "files": ["Events.json"] },
+  { "sobject": "Case", "files": ["Cases.json"] },
+  { "sobject": "Contract", "files": ["Contracts.json"] },
+  { "sobject": "Note", "files": ["Notes.json"] },
+  { "sobject": "Lead", "files": ["Leads.json"] }
+]

@@ -1,0 +1,15 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "Account", "referenceId": "acct_acme_emea" },
+      "Name": "JojaMart Pelican Town",
+      "ParentId": "@acct_acme",
+      "Type": "Customer - Direct",
+      "Industry": "Technology",
+      "Website": "https://pelicantown.joja.example",
+      "BillingCity": "London",
+      "BillingCountry": "United Kingdom",
+      "Description": "EMEA subsidiary of Joja Corporation, operating out of London."
+    }
+  ]
+}

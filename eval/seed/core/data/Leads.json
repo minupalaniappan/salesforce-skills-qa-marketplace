@@ -1,0 +1,41 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "Lead", "referenceId": "lead_initech" },
+      "FirstName": "Marnie",
+      "LastName": "Cooper",
+      "Company": "Marnie's Ranch",
+      "Title": "Owner",
+      "Email": "marnie.cooper@marniesranch.example",
+      "Status": "Open - Not Contacted",
+      "LeadSource": "Web",
+      "Industry": "Agriculture",
+      "Rating": "Warm",
+      "Description": "Inbound lead from the ranch and agriculture segment, not yet contacted."
+    },
+    {
+      "attributes": { "type": "Lead", "referenceId": "lead_umbrella" },
+      "FirstName": "Robin",
+      "LastName": "Carpenter",
+      "Company": "Robin's Carpentry",
+      "Title": "Owner & Lead Carpenter",
+      "Email": "robin.carpenter@robinscarpentry.example",
+      "Status": "Working - Contacted",
+      "LeadSource": "Trade Show",
+      "Industry": "Construction",
+      "Rating": "Hot"
+    },
+    {
+      "attributes": { "type": "Lead", "referenceId": "lead_hooli" },
+      "FirstName": "Gus",
+      "LastName": "Tavish",
+      "Company": "Stardrop Saloon",
+      "Title": "Owner",
+      "Email": "gus.tavish@stardropsaloon.example",
+      "Status": "Open - Not Contacted",
+      "LeadSource": "Referral",
+      "Industry": "Hospitality",
+      "Rating": "Cold"
+    }
+  ]
+}

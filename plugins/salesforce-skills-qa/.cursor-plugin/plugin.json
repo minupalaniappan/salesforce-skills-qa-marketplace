@@ -1,0 +1,54 @@
+{
+  "name": "salesforce-skills-qa",
+  "displayName": "Salesforce Skills (QA)",
+  "version": "0.1.0",
+  "description": "QA build of Salesforce's Sales Cloud and Marketing Cloud skills on the Headless 360 MCP server.",
+  "author": {
+    "name": "Salesforce, Inc."
+  },
+  "homepage": "https://developer.salesforce.com/docs/platform/hosted-mcp-servers/references/reference/headless-360-mcp.html",
+  "repository": "https://github.com/minupalaniappan/salesforce-skills-qa-marketplace",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "salesforce",
+    "crm",
+    "mcp",
+    "sales",
+    "headless-360"
+  ],
+  "category": "integrations",
+  "tags": [
+    "mcp",
+    "crm",
+    "sales"
+  ],
+  "variables": {
+    "type": "object",
+    "properties": {
+      "SALESFORCE_MCP_URL": {
+        "type": "string",
+        "title": "Salesforce MCP server URL (set by your Salesforce admin)",
+        "description": "Headless 360 server URL from Salesforce Setup → MCP Servers. Production and Developer orgs: https://api.salesforce.com/platform/mcp/v1/platform/headless-360. Sandbox and scratch orgs: https://api.salesforce.com/platform/mcp/v1/sandbox/platform/headless-360.",
+        "default": "https://api.salesforce.com/platform/mcp/v1/platform/headless-360"
+      },
+      "CLIENT_ID": {
+        "type": "string",
+        "title": "Salesforce Consumer Key (set by your Salesforce admin)",
+        "description": "Your Salesforce admin creates the External Client App and enters its Consumer Key here once for the whole team (Setup → External Client App Manager → your app → Settings → Consumer Key and Secret). Team members don't need this value; they only sign in to Salesforce."
+      },
+      "CLIENT_SECRET": {
+        "type": "string",
+        "title": "Salesforce Consumer Secret (set by your Salesforce admin)",
+        "description": "Consumer Secret from the same External Client App, entered once by your Salesforce admin for the whole team. Team members don't need this value.",
+        "writeOnly": true
+      }
+    },
+    "required": [
+      "SALESFORCE_MCP_URL",
+      "CLIENT_ID",
+      "CLIENT_SECRET"
+    ]
+  },
+  "mcpServers": "./mcp.json",
+  "skills": "./skills/"
+}

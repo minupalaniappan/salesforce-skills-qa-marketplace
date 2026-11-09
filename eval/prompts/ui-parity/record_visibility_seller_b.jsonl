@@ -1,0 +1,1 @@
+{"id": "p-6b976abfb0b1", "input": "Look up the opportunity Northwind Expansion and tell me its stage (StageName), amount (Amount) and next step (NextStep). Don't ask me anything; if you can't find it, say so and quote what the server returned."}

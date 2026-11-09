@@ -1,0 +1,265 @@
+{
+ "records": [
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_summer_1"
+   },
+   "CampaignId": "@sup_summer",
+   "LeadId": "@sup_lead_1",
+   "Status": "Responded"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_summer_2"
+   },
+   "CampaignId": "@sup_summer",
+   "LeadId": "@sup_lead_2",
+   "Status": "Responded"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_summer_3"
+   },
+   "CampaignId": "@sup_summer",
+   "LeadId": "@sup_lead_3",
+   "Status": "Responded"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_summer_4"
+   },
+   "CampaignId": "@sup_summer",
+   "LeadId": "@sup_lead_4",
+   "Status": "Responded"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_summer_5"
+   },
+   "CampaignId": "@sup_summer",
+   "LeadId": "@sup_lead_5",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_summer_6"
+   },
+   "CampaignId": "@sup_summer",
+   "LeadId": "@sup_lead_6",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_summer_7"
+   },
+   "CampaignId": "@sup_summer",
+   "LeadId": "@sup_lead_7",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_summer_8"
+   },
+   "CampaignId": "@sup_summer",
+   "LeadId": "@sup_lead_8",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_summer_9"
+   },
+   "CampaignId": "@sup_summer",
+   "LeadId": "@sup_lead_9",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_summer_10"
+   },
+   "CampaignId": "@sup_summer",
+   "LeadId": "@sup_lead_10",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_summer_reeng_1"
+   },
+   "CampaignId": "@sup_summer_reeng",
+   "LeadId": "@sup_lead_1",
+   "Status": "Responded"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_summer_reeng_2"
+   },
+   "CampaignId": "@sup_summer_reeng",
+   "LeadId": "@sup_lead_2",
+   "Status": "Responded"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_summer_reeng_3"
+   },
+   "CampaignId": "@sup_summer_reeng",
+   "LeadId": "@sup_lead_3",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_summer_reeng_4"
+   },
+   "CampaignId": "@sup_summer_reeng",
+   "LeadId": "@sup_lead_4",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_summer_reeng_5"
+   },
+   "CampaignId": "@sup_summer_reeng",
+   "LeadId": "@sup_lead_5",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_velocity_1"
+   },
+   "CampaignId": "@sup_velocity",
+   "LeadId": "@sup_lead_1",
+   "Status": "Responded"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_velocity_2"
+   },
+   "CampaignId": "@sup_velocity",
+   "LeadId": "@sup_lead_2",
+   "Status": "Responded"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_velocity_3"
+   },
+   "CampaignId": "@sup_velocity",
+   "LeadId": "@sup_lead_3",
+   "Status": "Responded"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_velocity_4"
+   },
+   "CampaignId": "@sup_velocity",
+   "LeadId": "@sup_lead_4",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_velocity_5"
+   },
+   "CampaignId": "@sup_velocity",
+   "LeadId": "@sup_lead_5",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_velocity_6"
+   },
+   "CampaignId": "@sup_velocity",
+   "LeadId": "@sup_lead_6",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_spring_1"
+   },
+   "CampaignId": "@sup_spring",
+   "LeadId": "@sup_lead_1",
+   "Status": "Responded"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_spring_2"
+   },
+   "CampaignId": "@sup_spring",
+   "LeadId": "@sup_lead_2",
+   "Status": "Responded"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_spring_3"
+   },
+   "CampaignId": "@sup_spring",
+   "LeadId": "@sup_lead_3",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_spring_4"
+   },
+   "CampaignId": "@sup_spring",
+   "LeadId": "@sup_lead_4",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_spring_5"
+   },
+   "CampaignId": "@sup_spring",
+   "LeadId": "@sup_lead_5",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_spring_6"
+   },
+   "CampaignId": "@sup_spring",
+   "LeadId": "@sup_lead_6",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_spring_7"
+   },
+   "CampaignId": "@sup_spring",
+   "LeadId": "@sup_lead_7",
+   "Status": "Sent"
+  },
+  {
+   "attributes": {
+    "type": "CampaignMember",
+    "referenceId": "sup_m_sup_spring_8"
+   },
+   "CampaignId": "@sup_spring",
+   "LeadId": "@sup_lead_8",
+   "Status": "Sent"
+  }
+ ]
+}

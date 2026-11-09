@@ -1,0 +1,61 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "Task", "referenceId": "task_acme_call" },
+      "Subject": "Discovery call with Morris",
+      "WhatId": "@opp_acme_main",
+      "WhoId": "@con_jane",
+      "Status": "Completed",
+      "Priority": "Normal",
+      "ActivityDate": "2026-07-08",
+      "Description": "Discussed platform requirements and rollout timeline."
+    },
+    {
+      "attributes": { "type": "Task", "referenceId": "task_acme_email" },
+      "Subject": "Send JojaCola pricing proposal",
+      "WhatId": "@opp_acme_main",
+      "WhoId": "@con_marcus",
+      "Status": "Completed",
+      "Priority": "High",
+      "ActivityDate": "2026-07-11"
+    },
+    {
+      "attributes": { "type": "Task", "referenceId": "task_acme_open" },
+      "Subject": "Follow up on Joja MSA redlines",
+      "WhatId": "@opp_acme_main",
+      "WhoId": "@con_jane",
+      "Status": "Not Started",
+      "Priority": "High",
+      "ActivityDate": "2026-07-18"
+    },
+    {
+      "attributes": { "type": "Task", "referenceId": "task_globex_open" },
+      "Subject": "Prep technical discovery deck",
+      "WhatId": "@opp_globex",
+      "WhoId": "@con_globex_sam",
+      "Status": "In Progress",
+      "Priority": "Normal",
+      "ActivityDate": "2026-07-17"
+    },
+    {
+      "attributes": { "type": "Task", "referenceId": "task_renewal_open" },
+      "Subject": "Schedule FY27 renewal review with Joja finance",
+      "WhatId": "@opp_acme_renewal",
+      "WhoId": "@con_marcus",
+      "Status": "Not Started",
+      "Priority": "High",
+      "ActivityDate": "2026-07-23",
+      "Description": "Line up the renewal review; confirm FY27 budget owner and co-terminus option with the expansion."
+    },
+    {
+      "attributes": { "type": "Task", "referenceId": "task_acct_qbr_prep" },
+      "Subject": "Prep Joja account QBR deck",
+      "WhatId": "@acct_acme",
+      "WhoId": "@con_lena",
+      "Status": "In Progress",
+      "Priority": "Normal",
+      "ActivityDate": "2026-07-20",
+      "Description": "Account-level QBR prep spanning all open Joja opportunities (not tied to a single deal)."
+    }
+  ]
+}

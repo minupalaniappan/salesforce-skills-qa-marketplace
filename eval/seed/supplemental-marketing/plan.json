@@ -1,0 +1,26 @@
+[
+ {
+  "sobject": "Campaign",
+  "files": [
+   "Campaigns.json"
+  ]
+ },
+ {
+  "sobject": "Campaign",
+  "files": [
+   "Campaigns-child.json"
+  ]
+ },
+ {
+  "sobject": "Lead",
+  "files": [
+   "Leads.json"
+  ]
+ },
+ {
+  "sobject": "CampaignMember",
+  "files": [
+   "CampaignMembers.json"
+  ]
+ }
+]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Risk_Category__c</fullName>
+    <description>Restricted picklist categorizing the risk. Added so ObjectInfo-grounded deal-review / deal-advance / handle-objection skills find a category field to read (they reached for one and hit FieldUndefined against the earlier type-coverage-only schema). Restricted so the Group H allowed-value enumeration stays exact.</description>
+    <label>Risk Category</label>
+    <required>false</required>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Competitive</fullName>
+                <default>false</default>
+                <label>Competitive</label>
+            </value>
+            <value>
+                <fullName>Pricing</fullName>
+                <default>false</default>
+                <label>Pricing</label>
+            </value>
+            <value>
+                <fullName>Legal/Contractual</fullName>
+                <default>false</default>
+                <label>Legal/Contractual</label>
+            </value>
+            <value>
+                <fullName>Technical</fullName>
+                <default>false</default>
+                <label>Technical</label>
+            </value>
+            <value>
+                <fullName>Champion/Stakeholder</fullName>
+                <default>false</default>
+                <label>Champion/Stakeholder</label>
+            </value>
+            <value>
+                <fullName>Budget/Timing</fullName>
+                <default>false</default>
+                <label>Budget/Timing</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

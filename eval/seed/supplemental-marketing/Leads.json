@@ -1,0 +1,124 @@
+{
+ "records": [
+  {
+   "attributes": {
+    "type": "Lead",
+    "referenceId": "sup_lead_1"
+   },
+   "FirstName": "Abigail",
+   "LastName": "Hart",
+   "Company": "Hart Outfitters (H360 Mkt Supplemental)",
+   "Status": "Open - Not Contacted",
+   "LeadSource": "Web",
+   "Email": "abigail.hart@example.com"
+  },
+  {
+   "attributes": {
+    "type": "Lead",
+    "referenceId": "sup_lead_2"
+   },
+   "FirstName": "Sebastian",
+   "LastName": "Cole",
+   "Company": "Cole Cycles (H360 Mkt Supplemental)",
+   "Status": "Open - Not Contacted",
+   "LeadSource": "Web",
+   "Email": "sebastian.cole@example.com"
+  },
+  {
+   "attributes": {
+    "type": "Lead",
+    "referenceId": "sup_lead_3"
+   },
+   "FirstName": "Emily",
+   "LastName": "Stone",
+   "Company": "Stone Studio (H360 Mkt Supplemental)",
+   "Status": "Open - Not Contacted",
+   "LeadSource": "Web",
+   "Email": "emily.stone@example.com"
+  },
+  {
+   "attributes": {
+    "type": "Lead",
+    "referenceId": "sup_lead_4"
+   },
+   "FirstName": "Haley",
+   "LastName": "Brooks",
+   "Company": "Brooks Photo (H360 Mkt Supplemental)",
+   "Status": "Open - Not Contacted",
+   "LeadSource": "Web",
+   "Email": "haley.brooks@example.com"
+  },
+  {
+   "attributes": {
+    "type": "Lead",
+    "referenceId": "sup_lead_5"
+   },
+   "FirstName": "Alex",
+   "LastName": "Mullner",
+   "Company": "Mullner Sports (H360 Mkt Supplemental)",
+   "Status": "Open - Not Contacted",
+   "LeadSource": "Web",
+   "Email": "alex.mullner@example.com"
+  },
+  {
+   "attributes": {
+    "type": "Lead",
+    "referenceId": "sup_lead_6"
+   },
+   "FirstName": "Penny",
+   "LastName": "Lane",
+   "Company": "Lane Tutoring (H360 Mkt Supplemental)",
+   "Status": "Open - Not Contacted",
+   "LeadSource": "Web",
+   "Email": "penny.lane@example.com"
+  },
+  {
+   "attributes": {
+    "type": "Lead",
+    "referenceId": "sup_lead_7"
+   },
+   "FirstName": "Elliott",
+   "LastName": "Shore",
+   "Company": "Shore Books (H360 Mkt Supplemental)",
+   "Status": "Open - Not Contacted",
+   "LeadSource": "Web",
+   "Email": "elliott.shore@example.com"
+  },
+  {
+   "attributes": {
+    "type": "Lead",
+    "referenceId": "sup_lead_8"
+   },
+   "FirstName": "Leah",
+   "LastName": "Wood",
+   "Company": "Wood Arts (H360 Mkt Supplemental)",
+   "Status": "Open - Not Contacted",
+   "LeadSource": "Web",
+   "Email": "leah.wood@example.com"
+  },
+  {
+   "attributes": {
+    "type": "Lead",
+    "referenceId": "sup_lead_9"
+   },
+   "FirstName": "Harvey",
+   "LastName": "Doc",
+   "Company": "Harvey Clinic (H360 Mkt Supplemental)",
+   "Status": "Open - Not Contacted",
+   "LeadSource": "Web",
+   "Email": "harvey.doc@example.com"
+  },
+  {
+   "attributes": {
+    "type": "Lead",
+    "referenceId": "sup_lead_10"
+   },
+   "FirstName": "Shane",
+   "LastName": "Ranch",
+   "Company": "Shane Poultry (H360 Mkt Supplemental)",
+   "Status": "Open - Not Contacted",
+   "LeadSource": "Web",
+   "Email": "shane.ranch@example.com"
+  }
+ ]
+}

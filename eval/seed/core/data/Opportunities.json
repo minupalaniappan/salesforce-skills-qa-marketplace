@@ -1,0 +1,93 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "Opportunity", "referenceId": "opp_acme_main" },
+      "Name": "Joja Corporation - Warehouse Automation Platform",
+      "AccountId": "@acct_acme",
+      "StageName": "Negotiation/Review",
+      "Amount": 250000,
+      "CloseDate": "2026-07-25",
+      "Type": "New Business",
+      "LeadSource": "Partner Referral",
+      "NextStep": "Joja legal to finalize MSA redlines; exec sponsor sign-off",
+      "Probability": 80,
+      "Executive_Sponsor__c": "Demetrius Bautista",
+      "Health_Score__c": 72,
+      "Cats__c": "Junimo",
+      "Primary_Risk__c": "@dr_acme_pricing"
+    },
+    {
+      "attributes": { "type": "Opportunity", "referenceId": "opp_acme_expansion" },
+      "Name": "Joja Corporation - JojaCola Analytics Expansion",
+      "AccountId": "@acct_acme",
+      "StageName": "Prospecting",
+      "Amount": 120000,
+      "CloseDate": "2026-09-30",
+      "Type": "Existing Business",
+      "LeadSource": "Web",
+      "NextStep": "Confirm budget owner for JojaCola analytics module",
+      "Probability": 20,
+      "Executive_Sponsor__c": "Demetrius Bautista",
+      "Health_Score__c": 55,
+      "Cats__c": "Void Chicken"
+    },
+    {
+      "attributes": { "type": "Opportunity", "referenceId": "opp_acme_renewal" },
+      "Name": "Joja Corporation - Membership Renewal FY27",
+      "AccountId": "@acct_acme",
+      "StageName": "Value Proposition",
+      "Amount": 91000,
+      "CloseDate": "2026-10-15",
+      "Type": "Renewal",
+      "LeadSource": "Existing Customer",
+      "NextStep": "Send membership renewal quote with 8% uplift",
+      "Probability": 60,
+      "Executive_Sponsor__c": "Demetrius Bautista",
+      "Health_Score__c": 68,
+      "Cats__c": "Blue Chicken"
+    },
+    {
+      "attributes": { "type": "Opportunity", "referenceId": "opp_globex" },
+      "Name": "Pierre's General Store - Initial Rollout",
+      "AccountId": "@acct_globex",
+      "StageName": "Qualification",
+      "Amount": 75000,
+      "CloseDate": "2026-08-20",
+      "Type": "New Business",
+      "LeadSource": "Trade Show",
+      "NextStep": "Schedule technical discovery",
+      "Probability": 30,
+      "Executive_Sponsor__c": "Caroline Boucher",
+      "Health_Score__c": 61,
+      "Cats__c": "Ostrich"
+    },
+    {
+      "attributes": { "type": "Opportunity", "referenceId": "opp_acme_won" },
+      "Name": "Joja Corporation - Community Center Pilot",
+      "AccountId": "@acct_acme",
+      "StageName": "Closed Won",
+      "Amount": 60000,
+      "CloseDate": "2026-05-30",
+      "Type": "New Business",
+      "LeadSource": "Partner Referral",
+      "Probability": 100,
+      "Executive_Sponsor__c": "Demetrius Bautista",
+      "Health_Score__c": 90,
+      "Cats__c": "Golden Chicken"
+    },
+    {
+      "attributes": { "type": "Opportunity", "referenceId": "opp_acme_lost" },
+      "Name": "Joja Corporation - Legacy Register Migration",
+      "AccountId": "@acct_acme",
+      "StageName": "Closed Lost",
+      "Amount": 40000,
+      "CloseDate": "2026-06-15",
+      "Type": "New Business",
+      "LeadSource": "Web",
+      "Probability": 0,
+      "Executive_Sponsor__c": "Demetrius Bautista",
+      "Health_Score__c": 30,
+      "Cats__c": "Dinosaur"
+    }
+  ]
+}

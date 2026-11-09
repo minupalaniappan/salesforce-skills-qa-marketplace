@@ -1,0 +1,16 @@
+{
+  "name": "salesforce-skills-qa-marketplace",
+  "owner": {
+    "name": "Minu Palaniappan"
+  },
+  "metadata": {
+    "description": "QA marketplace for testing Salesforce's Headless 360 skills before they ship to the public listing"
+  },
+  "plugins": [
+    {
+      "name": "salesforce-skills-qa",
+      "source": "plugins/salesforce-skills-qa",
+      "description": "QA build of Salesforce's Sales Cloud and Marketing Cloud skills on the Headless 360 MCP server."
+    }
+  ]
+}

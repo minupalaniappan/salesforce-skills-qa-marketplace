@@ -1,0 +1,46 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "Campaign", "referenceId": "camp_in_progress" },
+      "Name": "H360 Eval Campaign In Progress",
+      "Status": "In Progress",
+      "IsActive": true,
+      "StartDate": "2026-01-01",
+      "EndDate": "2099-12-31"
+    },
+    {
+      "attributes": { "type": "Campaign", "referenceId": "camp_ambiguous_alpha" },
+      "Name": "H360 Eval Ambiguous Campaign Alpha",
+      "Status": "Completed",
+      "IsActive": false,
+      "StartDate": "2026-01-01",
+      "EndDate": "2026-01-31"
+    },
+    {
+      "attributes": { "type": "Campaign", "referenceId": "camp_ambiguous_beta" },
+      "Name": "H360 Eval Ambiguous Campaign Beta",
+      "Status": "Completed",
+      "IsActive": false,
+      "StartDate": "2026-02-01",
+      "EndDate": "2026-02-28"
+    },
+    {
+      "attributes": { "type": "Campaign", "referenceId": "camp_briefid_fallback" },
+      "Name": "H360 Eval BriefId Fallback Campaign",
+      "Status": "Completed",
+      "IsActive": false,
+      "StartDate": "2026-03-01",
+      "EndDate": "2026-03-31",
+      "ExpectedResponse": 0
+    },
+    {
+      "attributes": { "type": "Campaign", "referenceId": "camp_completed_response_rate" },
+      "Name": "H360 Eval Completed Response Rate Campaign",
+      "Status": "Completed",
+      "IsActive": false,
+      "StartDate": "2026-04-01",
+      "EndDate": "2026-04-30",
+      "ExpectedResponse": 250
+    }
+  ]
+}

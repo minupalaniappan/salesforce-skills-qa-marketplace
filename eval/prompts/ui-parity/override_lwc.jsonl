@@ -1,0 +1,1 @@
+{"id": "p-acdbe559312c", "input": "On the opportunity UIP Globex - Platform Deal, set the next step (the field NextStep) to 'Send MSA'. Send exactly this value and change only that field. Don't ask me to confirm, and don't hold the update back if you expect Salesforce to refuse it: send it once, then tell me exactly what Salesforce answered."}

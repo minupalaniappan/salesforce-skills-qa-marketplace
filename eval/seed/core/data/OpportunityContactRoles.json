@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "OpportunityContactRole", "referenceId": "ocr_jane_main" },
+      "OpportunityId": "@opp_acme_main",
+      "ContactId": "@con_jane",
+      "Role": "Decision Maker",
+      "IsPrimary": true
+    },
+    {
+      "attributes": { "type": "OpportunityContactRole", "referenceId": "ocr_marcus_main" },
+      "OpportunityId": "@opp_acme_main",
+      "ContactId": "@con_marcus",
+      "Role": "Economic Buyer",
+      "IsPrimary": false
+    },
+    {
+      "attributes": { "type": "OpportunityContactRole", "referenceId": "ocr_lena_main" },
+      "OpportunityId": "@opp_acme_main",
+      "ContactId": "@con_lena",
+      "Role": "Technical Buyer",
+      "IsPrimary": false
+    }
+  ]
+}

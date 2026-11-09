@@ -1,0 +1,14 @@
+{
+  "orgName": "Headless 360 for Sales",
+  "edition": "Developer",
+  "description": "Developer scratch org for the Headless-360-for-sales skills. Deploy force-app, assign the H360_Test_Data permission set, then import data/plan.json. Single-currency, Lightning enabled, no RecordTypes (keeps picklists on the master value set).",
+  "features": [],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}

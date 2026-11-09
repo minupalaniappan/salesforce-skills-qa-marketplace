@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "Contract", "referenceId": "contract_acme" },
+      "AccountId": "@acct_acme",
+      "Status": "Draft",
+      "StartDate": "2026-06-01",
+      "ContractTerm": 12,
+      "Description": "Pilot-to-platform conversion contract for Joja Corporation."
+    }
+  ]
+}

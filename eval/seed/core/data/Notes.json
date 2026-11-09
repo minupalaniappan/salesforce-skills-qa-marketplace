@@ -1,0 +1,10 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "Note", "referenceId": "note_acme_pricing" },
+      "Title": "JojaCola pricing call - internal recap",
+      "Body": "Recap of the pricing call: Joja procurement pushed hard on the per-seat uplift and referenced a competing regional quote. Lewis (CFO) is supportive of value framing but wants a 2-year price lock. Next step is a TCO one-pager. Morris remains our champion but budget sign-off runs through finance.",
+      "ParentId": "@opp_acme_main"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+ "records": [
+  {
+   "attributes": {
+    "type": "Campaign",
+    "referenceId": "sup_summer_reeng"
+   },
+   "Name": "Summer Adventure Re-engagement",
+   "Type": "Email",
+   "Status": "Completed",
+   "IsActive": false,
+   "StartDate": "2026-08-01",
+   "EndDate": "2026-08-31",
+   "ExpectedResponse": 10,
+   "BudgetedCost": 5000,
+   "ActualCost": 4600,
+   "NumberSent": 1200,
+   "ParentId": "@sup_summer",
+   "Description": "Re-engagement follow-up to non-responders of Summer Adventure."
+  }
+ ]
+}

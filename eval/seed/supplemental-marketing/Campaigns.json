@@ -1,0 +1,84 @@
+{
+ "records": [
+  {
+   "attributes": {
+    "type": "Campaign",
+    "referenceId": "sup_summer"
+   },
+   "Name": "Summer Adventure",
+   "Type": "Email",
+   "Status": "Completed",
+   "IsActive": false,
+   "StartDate": "2026-06-01",
+   "EndDate": "2026-07-31",
+   "ExpectedResponse": 30,
+   "BudgetedCost": 20000,
+   "ActualCost": 18500,
+   "ExpectedRevenue": 150000,
+   "NumberSent": 5000,
+   "Description": "Summer outdoor-gear email promotion."
+  },
+  {
+   "attributes": {
+    "type": "Campaign",
+    "referenceId": "sup_velocity"
+   },
+   "Name": "Velocity Road 2 Launch",
+   "Type": "Email",
+   "Status": "Completed",
+   "IsActive": false,
+   "StartDate": "2026-09-01",
+   "EndDate": "2026-09-30",
+   "BudgetedCost": 12000,
+   "ActualCost": 11800,
+   "NumberSent": 3000,
+   "Description": "Product launch email for Velocity Road 2. No response goal was set."
+  },
+  {
+   "attributes": {
+    "type": "Campaign",
+    "referenceId": "sup_spring"
+   },
+   "Name": "Spring Launch",
+   "Type": "Email",
+   "Status": "Completed",
+   "IsActive": false,
+   "StartDate": "2026-03-01",
+   "EndDate": "2026-04-30",
+   "ExpectedResponse": 25,
+   "BudgetedCost": 15000,
+   "ActualCost": 14200,
+   "NumberSent": 4000,
+   "Description": "Spring product launch, email and paid media."
+  },
+  {
+   "attributes": {
+    "type": "Campaign",
+    "referenceId": "sup_holiday"
+   },
+   "Name": "Holiday Campaign 2026",
+   "Type": "Email",
+   "Status": "Planned",
+   "IsActive": true,
+   "StartDate": "2026-11-20",
+   "EndDate": "2026-12-31",
+   "ExpectedResponse": 40,
+   "BudgetedCost": 25000,
+   "Description": "Holiday season promotion; pending go/no-go review."
+  },
+  {
+   "attributes": {
+    "type": "Campaign",
+    "referenceId": "sup_blackfriday"
+   },
+   "Name": "Black Friday Launch",
+   "Type": "Email",
+   "Status": "Planned",
+   "IsActive": true,
+   "StartDate": "2026-11-27",
+   "EndDate": "2026-11-30",
+   "BudgetedCost": 10000,
+   "Description": "Black Friday email launch."
+  }
+ ]
+}

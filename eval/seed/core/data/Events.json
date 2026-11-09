@@ -1,0 +1,31 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "Event", "referenceId": "evt_acme_qbr" },
+      "Subject": "Joja QBR",
+      "WhatId": "@opp_acme_main",
+      "WhoId": "@con_jane",
+      "StartDateTime": "2026-07-22T17:00:00.000Z",
+      "EndDateTime": "2026-07-22T18:00:00.000Z",
+      "Location": "Zoom"
+    },
+    {
+      "attributes": { "type": "Event", "referenceId": "evt_acme_followup" },
+      "Subject": "Follow-up with Morris",
+      "WhatId": "@opp_acme_main",
+      "WhoId": "@con_jane",
+      "StartDateTime": "2026-07-24T16:00:00.000Z",
+      "EndDateTime": "2026-07-24T16:30:00.000Z",
+      "Location": "Phone"
+    },
+    {
+      "attributes": { "type": "Event", "referenceId": "evt_acme_renewal_review" },
+      "Subject": "Joja FY27 renewal review",
+      "WhatId": "@opp_acme_renewal",
+      "WhoId": "@con_marcus",
+      "StartDateTime": "2026-07-30T17:00:00.000Z",
+      "EndDateTime": "2026-07-30T18:00:00.000Z",
+      "Location": "Zoom"
+    }
+  ]
+}

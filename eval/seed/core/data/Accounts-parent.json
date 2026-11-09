@@ -1,0 +1,33 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "Account", "referenceId": "acct_acme" },
+      "Name": "Joja Corporation",
+      "Type": "Customer - Direct",
+      "Industry": "Technology",
+      "Website": "https://www.joja.example",
+      "Phone": "+1-415-555-0100",
+      "AnnualRevenue": 120000000,
+      "NumberOfEmployees": 2400,
+      "BillingStreet": "1 Market St",
+      "BillingCity": "San Francisco",
+      "BillingState": "CA",
+      "BillingPostalCode": "94105",
+      "BillingCountry": "USA",
+      "Description": "Strategic enterprise account; primary customer for the warehouse automation and analytics platform."
+    },
+    {
+      "attributes": { "type": "Account", "referenceId": "acct_globex" },
+      "Name": "Pierre's General Store",
+      "Type": "Prospect",
+      "Industry": "Manufacturing",
+      "Website": "https://www.pierres.example",
+      "AnnualRevenue": 45000000,
+      "NumberOfEmployees": 800,
+      "BillingCity": "Austin",
+      "BillingState": "TX",
+      "BillingCountry": "USA",
+      "Description": "Regional prospect account evaluating an initial platform rollout."
+    }
+  ]
+}

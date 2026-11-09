@@ -1,0 +1,48 @@
+{"id": "p-0b5b353357d6", "input": "What's the whitespace for the parent account Joja Corporation? Do not use a child account as the target. Evaluate the owned H360 Test - Warehouse License and the catalog-only H360 Test - Analytics License; do not claim the catalog-only product is whitespace without evidence."}
+{"id": "p-134ba0c22867", "input": "Tell me about Joja Corporation"}
+{"id": "p-1fb0be243705", "input": "Build a close plan for the Joja Warehouse Automation deal"}
+{"id": "p-29a2b55fde34", "input": "Put together a prioritized invite list of 15 contacts for our executive roundtable in San Francisco - focus on enterprise accounts with open opportunities and VP-level titles."}
+{"id": "p-29c56a14cfa0", "input": "Should I work the lead from Marnie's Ranch?"}
+{"id": "p-2d30f8a94567", "input": "Give me my forecast story for this quarter. No quota is supplied; omit quota, coverage, attainment, target, and gap metrics rather than infer them."}
+{"id": "p-34e9e3772c21", "input": "What is Joja Corporation telling us about pricing?"}
+{"id": "p-3e145ed693fe", "input": "What happens to my quarter if the Joja Warehouse Automation deal slips? No quota is supplied; omit quota, attainment, coverage, target, and gap metrics rather than infer them."}
+{"id": "p-468a4e4a49f5", "input": "Help me figure out who to invite."}
+{"id": "p-495d9c3b7bf4", "input": "Triage my inbox and identify messages that need replies, enriching matched accounts in Salesforce when useful. Prepare proposed replies only: do not send anything, show the drafts, and ask for confirmation before any send."}
+{"id": "p-50a4e33a3b3c", "input": "Give me my weekly wrap-up"}
+{"id": "p-519b0c41dd4b", "input": "need a guest list for the dinner next month"}
+{"id": "p-5642b6a1a8c9", "input": "How healthy is Joja?"}
+{"id": "p-57e70254f1b4", "input": "Check whether a team hierarchy and quota data are available for a team-pipeline review. Do not substitute my own book or render a team widget; omit quota, attainment, coverage, and target metrics rather than infer them. If the hierarchy, feature, or permission is unavailable, report that evidence as unavailable rather than inventing a team result."}
+{"id": "p-5af3262aa7a3", "input": "Show me what changed recently for my highest-value open Joja deal."}
+{"id": "p-5ee3a6256668", "input": "Find today's call transcript for Joja Corporation and use it to draft a customer follow-up email plus an internal #sales recap. Drafts only: do not send email, do not post Slack, do not log activity, and do not update Salesforce; stop for confirmation. If you cannot find the transcript, ask me for what you need rather than guess."}
+{"id": "p-6845f9f13c5f", "input": "Have any executives left or joined Joja Corporation recently?"}
+{"id": "p-6a006c4519b7", "input": "The Joja buyer on the Joja Corporation - Warehouse Automation Platform opportunity says we're too expensive. How do I respond?"}
+{"id": "p-6aa003d7cd05", "input": "Move the Joja Warehouse Automation deal to Proposal. Show me the proposed change and do not apply it until I confirm."}
+{"id": "p-6ef9ae0026bb", "input": "did anyone important leave or join at my accounts"}
+{"id": "p-718e9cf8047b", "input": "Research Pierre's General Store before I reach out"}
+{"id": "p-7b310e80279c", "input": "Has anything changed with my key contacts?"}
+{"id": "p-827dfcbba490", "input": "What's on my calendar this week?"}
+{"id": "p-862747c76d8c", "input": "Check for leadership changes across my top accounts using approved sources, connect them to our relationship history, and tell me which ones are risks or opportunities with recommended outreach."}
+{"id": "p-8b43e23f9904", "input": "Draft outreach to Pierre Boucher at Pierre's General Store"}
+{"id": "p-8ea4d0e7b4da", "input": "Build an invite list for our Chicago customer dinner based on our ICP."}
+{"id": "p-9348777292f2", "input": "For the Joja Corporation - Warehouse Automation Platform opportunity, read back the value of its Unicorn_Sparkle__c field. If that field does not exist in the org, say exactly which error the org returned and do not invent a value."}
+{"id": "p-9614423fffcb", "input": "Win/loss review"}
+{"id": "p-9ecf07e62e53", "input": "Use the pasted call transcript below to prepare two professional/warm drafts: (1) a customer follow-up email with an {{RUNNING_USER_NAME}} signature and (2) an internal #sales recap.\n\nTranscript:\n{{RUNNING_USER_NAME}}: Thanks for meeting with us on September 10, 2026. Before we wrap, I want to confirm the commercial path and next steps.\nMorris Grey: My operators are already stretched thin during the fall harvest, so the per-seat uplift versus a regional competitor is hard to absorb.\n{{RUNNING_USER_NAME}}: That helps. What cost view would make the tradeoff clearer for your team?\nLewis Thornton: Joja's $250,000 Warehouse Automation proposal may proceed, subject to a two-year price lock and MSA legal approval.\n{{RUNNING_USER_NAME}}: Understood. Morris, can you send the warehouse usage data we need for the cost model?\nMorris Grey: Yes, I'll send warehouse usage data by September 11.\n{{RUNNING_USER_NAME}}: I will send a TCO one-pager and standard fallback DPA by September 14.\nLewis Thornton: One question is still open: do seasonal warehouse workers count as paid seats?\nMorris Grey: Our budget review is September 18, so we need the TCO before then if we're going to keep this moving.\nLewis Thornton: Let's make the next meeting September 16 at 10:00 AM Pacific.\nEnd transcript.\n\nDrafts only: do not send email, do not post Slack, do not log activity, and do not update Salesforce; stop for confirmation."}
+{"id": "p-9ed52e207a4b", "input": "What does my day look like?"}
+{"id": "p-9fa0d3bf8319", "input": "Who should I invite to our San Francisco customer dinner? Prioritize contacts at accounts with open opportunities."}
+{"id": "p-a33636415669", "input": "Move the Joja Corporation deal to Proposal. Show me the proposed change and do not apply it until I confirm."}
+{"id": "p-ae8ddede653c", "input": "Review the Warehouse Automation deal for Joja Corporation."}
+{"id": "p-aebe748b7bd5", "input": "Any exec moves at my accounts?"}
+{"id": "p-b728b63f2e6c", "input": "Who should we invite to the NYC event?"}
+{"id": "p-b830aad46097", "input": "What should I focus on today? I've got a few customer meetings, a couple deals closing this week, and emails I haven't gotten to."}
+{"id": "p-bebbbcbeadc8", "input": "Use rep context for {{RUNNING_USER_NAME}} ({{RUNNING_USER_EMAIL}}) to catch me up on where my deals stand. No quota is supplied; omit quota, attainment, coverage, and target metrics rather than infer them."}
+{"id": "p-cad4ec84e887", "input": "Who are the players on Joja Corporation's Warehouse Automation opportunity?"}
+{"id": "p-cc0bba2097d7", "input": "Tier my accounts"}
+{"id": "p-ce0d9e0d8893", "input": "Prep me for the exact forward Joja Event, Joja — Warehouse Automation proposal review, at 10:00 AM Pacific."}
+{"id": "p-d18acc2cc1f7", "input": "What is our policy on discount approvals? No policy source is available in this harness; report the source as unavailable and do not invent an answer."}
+{"id": "p-df915b3a4fbc", "input": "Check my SFDC hygiene"}
+{"id": "p-e26295ded958", "input": "Show me the recent activity on Joja Corporation's Warehouse Automation deal."}
+{"id": "p-e3ebe30f0efc", "input": "Flag any executive changes across my accounts and recommend follow-up."}
+{"id": "p-e8020ac9ae56", "input": "Read my sent emails and present a writing-voice profile. Do not write persistent configuration; report the profile for review."}
+{"id": "p-f13ec0de178a", "input": "What's missing to advance Joja Corporation's Warehouse Automation deal?"}
+{"id": "p-f8165708877a", "input": "What renewals are coming up?"}
+{"id": "p-fab0639d2eea", "input": "Review my pipeline. No quota is supplied; omit quota, attainment, coverage, target, and remaining-gap metrics rather than infer them."}

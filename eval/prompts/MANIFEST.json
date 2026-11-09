@@ -1,0 +1,34 @@
+{
+  "source_ref": "origin/main",
+  "source_sha": "beb1d07643fb95539bd304b6fb0156fc4e5f65e6",
+  "exported_at": "2026-10-29T23:42:49Z",
+  "total_prompts": 549,
+  "placeholders": [
+    "{{RUNNING_USER_EMAIL}}",
+    "{{RUNNING_USER_NAME}}",
+    "{{RUNNING_USER_USERNAME}}"
+  ],
+  "files": {
+    "commerce-cloud.jsonl": 256,
+    "marketing-cloud.jsonl": 175,
+    "sales-cloud.jsonl": 48,
+    "ui-parity/assignment_rules.jsonl": 10,
+    "ui-parity/dynamic_forms.jsonl": 10,
+    "ui-parity/edit_view_override.jsonl": 2,
+    "ui-parity/field_permissions.jsonl": 2,
+    "ui-parity/field_permissions_admin.jsonl": 2,
+    "ui-parity/last_used_app_none.jsonl": 2,
+    "ui-parity/layout_rules.jsonl": 8,
+    "ui-parity/override_lwc.jsonl": 1,
+    "ui-parity/override_visualforce.jsonl": 1,
+    "ui-parity/picklists.jsonl": 6,
+    "ui-parity/platform_required.jsonl": 3,
+    "ui-parity/record_visibility_manager.jsonl": 1,
+    "ui-parity/record_visibility_seller_a.jsonl": 1,
+    "ui-parity/record_visibility_seller_b.jsonl": 1,
+    "ui-parity/save_time_rules.jsonl": 4,
+    "ui-parity/sobject_record_crud.jsonl": 11,
+    "ui-parity/sobject_record_crud_app_a.jsonl": 1,
+    "ui-parity/validation_rules.jsonl": 4
+  }
+}

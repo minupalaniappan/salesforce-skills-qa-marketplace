@@ -1,0 +1,44 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "Contact", "referenceId": "con_jane" },
+      "AccountId": "@acct_acme",
+      "FirstName": "Morris",
+      "LastName": "Grey",
+      "Title": "Regional Manager",
+      "Email": "morris.grey@joja.example",
+      "Phone": "+1-415-555-0110",
+      "LeadSource": "Partner Referral",
+      "Description": "Primary decision maker and internal champion at Joja Corporation."
+    },
+    {
+      "attributes": { "type": "Contact", "referenceId": "con_marcus" },
+      "AccountId": "@acct_acme",
+      "FirstName": "Lewis",
+      "LastName": "Thornton",
+      "Title": "Chief Financial Officer",
+      "Email": "lewis.thornton@joja.example",
+      "Phone": "+1-415-555-0111",
+      "Description": "Economic buyer and financial approver at Joja Corporation."
+    },
+    {
+      "attributes": { "type": "Contact", "referenceId": "con_lena" },
+      "AccountId": "@acct_acme",
+      "FirstName": "Maru",
+      "LastName": "Bautista",
+      "Title": "Director of IT Operations",
+      "Email": "maru.bautista@joja.example",
+      "Phone": "+1-415-555-0112",
+      "Description": "Technical evaluator at Joja Corporation."
+    },
+    {
+      "attributes": { "type": "Contact", "referenceId": "con_globex_sam" },
+      "AccountId": "@acct_globex",
+      "FirstName": "Pierre",
+      "LastName": "Boucher",
+      "Title": "Owner & Head of Procurement",
+      "Email": "pierre.boucher@pierres.example",
+      "Phone": "+1-512-555-0130"
+    }
+  ]
+}
